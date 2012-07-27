@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light" />
+    <style name="buttonBarStyle" parent="@android:style/Holo.Light.ButtonBar" />
+    <style name="buttonBarButtonStyle" parent="@android:style/Widget.Holo.Light.Button">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:paddingLeft">4dip</item>
+        <item name="android:paddingRight">4dip</item>
+    </style>
+
+</resources>
